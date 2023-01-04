@@ -1,6 +1,6 @@
 ### Hi, I'm Pat Strzelec 👋
 
-- 👀 I’m a full stack developer with 6yrs of experience
+- 👀 I’m a full stack developer with 7yrs of experience
 - 🔭 I’m currently working on microapps for fun and backend systems for work
 - 🌱 I’m currently improving my infrastructure skills 🚢 ☸️
 - ⚡ Fun fact: I surf on the Great Lakes in the winter time 🥶🏄🏼‍♂️
